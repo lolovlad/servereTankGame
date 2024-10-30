@@ -1,0 +1,5 @@
+from pygame import USEREVENT
+
+
+MOVE_TANK = USEREVENT + 10
+FIRE = USEREVENT + 11
